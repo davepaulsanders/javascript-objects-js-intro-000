@@ -1,1 +1,1 @@
-var playlist = {brandNew: "Sic Transit Gloria"}
+var playlist = { brandNew: "Sic Transit Gloria" }
